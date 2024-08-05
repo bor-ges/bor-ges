@@ -8,7 +8,8 @@
 <hr>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+<br>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=php,laravel,linux,html,css,tailwind,github,git,javascript" />
     <img src="https://skillicons.dev/icons?i=mysql,npm,phpstorm,postgres,ubuntu,docker" /><br>
