@@ -1,4 +1,4 @@
-<h2 align="center">Você morre como herói, ou vive o suficiente para se tornar o vilão! Bem-Vindo ao meu VOID, lugar onde minhas loucuras são transformadas em códigos.</h2>
+<h2 align="center">Bem-Vindo ao meu VOID, lugar onde minhas loucuras são transformadas em códigos.</h2>
 
 ###
 
