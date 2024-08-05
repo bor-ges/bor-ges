@@ -6,12 +6,6 @@
 
 ####
 
-<div align="center" >
-
-## ⚒️ Languages-Frameworks-Tools ⚒️
-
-</div> 
-
 ###
 
 <div align="center">
