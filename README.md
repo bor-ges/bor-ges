@@ -5,12 +5,10 @@
   <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtvN3YzM3F6YW51ZzRkbnkzcjFqODllODR1djkxY3pqM3Vnd3lhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13vUilgTzVIGQM/giphy.gif">
 </div>
 
-<hr>
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=php,laravel,linux,html,css,tailwind,github,git,javascript" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,linux,html,css,tailwind,github,git,javascript" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,npm,phpstorm,postgres,ubuntu,docker" /><br>
 </div>
 
