@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjA1Y2NoN2ljaG1maTB2YXI2bzhheW0yNXdmZ3M1MnFibnpjNG5sOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qQI6EWXlvMsgw/giphy.gif"  />
+  <img height="150" src="https://media1.tenor.com/m/yr4MEmlprx8AAAAC/saton-gaara.gif/>
 </div>
 
 ###
@@ -39,7 +39,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="47" height="35" alt="twitch logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/caiobcerqueira/"
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
