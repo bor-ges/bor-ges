@@ -6,8 +6,10 @@
 
 ####
 
-<div align="center" style="font-size: x-large ">
-⚒️ Languages-Frameworks-Tools ⚒️
+<div align="center" >
+
+## ⚒️ Languages-Frameworks-Tools ⚒️
+
 </div> 
 
 ###
