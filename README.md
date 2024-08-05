@@ -1,3 +1,4 @@
+<div class="container">
 <h2 align="center">Hi, my name is Caio Borges and This is my Playground</h2>
 <br>
 
@@ -24,5 +25,6 @@
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/bor-ges/bor-ges/output/snake.svg" alt="Snake animation" />
+</div>
 </div>
 
