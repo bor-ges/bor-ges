@@ -1,7 +1,7 @@
 <h2 align="center">Hi, my name is Caio Borges and This is my Playground</h2>
 
 <div align="center">
-  <img height="150" src="https://tenor.com/view/itachi-uchiha-when-hair-gets-in-your-face-windy-gif-13199961">
+  <img height="150" src="https://tenor.com/3x4L.gif">
 </div>
 
 ####
